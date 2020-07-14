@@ -1,11 +1,11 @@
 # Site settings
 title: The Golf Lab 
-email: your-email@domain.com
+email: undefinedspace+tgl@gmail.com
 url: https://thegolflab.github.io/website/ 
 baseurl: "/website/"
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Website devoted to research to develop low cost sensors, open data, and analytical techniques to help golfers improve"
+keywords: "Golf, Research, Technology, Data, Analytics"
+skills: "Research to make better golfers"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,9 +33,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: The Golf Lab 
   location: Location
-  social: Around the Web
+  social: Get Involved 
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,11 +47,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: United States 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Thanks to <a href="https://jeromelachaud.com/">Jerome LaChaud</a> for the template.'
 
 # Build settings
 markdown: kramdown
