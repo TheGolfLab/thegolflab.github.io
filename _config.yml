@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
+title: The Golf Lab 
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://thegolflab.github.io/website/ 
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -40,15 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/TheGolfLabOrg
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/TheGolfLab
 
 # Postal address (add as many lines as necessary)
 address:
@@ -61,7 +55,6 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
-baseurl: https://thegolflab.github.io/website
 
 #for posts
 defaults:
