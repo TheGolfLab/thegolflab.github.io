@@ -1,5 +1,5 @@
 # Site settings
-title: "The Golf Lab"
+title: "TheGolfLab"
 email: undefinedspace+tgl@gmail.com
 url: https://thegolflab.github.io/website/ 
 baseurl: "/website/"
@@ -30,10 +30,11 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  tertiary: bc9c18
 
 # Footer settings
 footer:
-  copyright: The Golf Lab 
+  copyright: TʜᴇGᴏʟғLᴀʙ 
   location: Location
   social: Get Involved 
   credits: Credits
