@@ -22,7 +22,16 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary}};
+}
+
+a.footer,
+a.footer:hover,
+a.footer:focus,
+a.footer:active,
+a.active.footer {
+    outline: 0;
+    color: #{{ site.color.primary}};
 }
 
 h1,
